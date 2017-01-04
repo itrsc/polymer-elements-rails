@@ -14,6 +14,7 @@
 /app/assets/components/**/demo
 /app/assets/components/**/bin
 /app/assets/components/**/doc
+/app/assets/components/**/docs
 /app/assets/components/**/man
 /app/assets/components/**/examples
 /app/assets/components/**/bower.json
